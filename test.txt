@@ -1,3 +1,3 @@
 select * from dual;
 
-update dual set idn=1 where dual_cd=cd12;
+update dual set idn=1 where dual_cd=cd12
